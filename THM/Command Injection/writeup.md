@@ -159,8 +159,6 @@ Question: What are the contents of the flag located in /home/tryhackme/flag.txt?
 Answer: THM{COMMAND_INJECTION_COMPLETE}
 ## Task 6: Conclusion
 
-## 📝 Conclusion
-
 In this room, I learned how command injection works and why it is dangerous when user input is not properly validated.
 
 I practiced identifying vulnerabilities, testing both blind and verbose command injection, and using different payloads to exploit systems. I also learned how attackers can bypass filters and how proper input sanitisation can prevent these vulnerabilities.
